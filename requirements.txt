@@ -1,0 +1,6 @@
+agentic-doc
+PyMuPDF
+pdfplumber
+pdf2image
+pandas
+pydantic
