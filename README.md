@@ -49,6 +49,8 @@ Links to get the keys:
 1. https://aistudio.google.com/apikey
 2. https://va.landing.ai/settings/personal/api-key
 
+### 4. RUN gradio UI
+- python ui.py
 
 ---
 
