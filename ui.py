@@ -159,7 +159,7 @@ def process_brochure_handler(pdf_file):
                     qa_status = "⚠️ Q&A Unavailable (Insufficient content)"
                 else:
                     # Check API key
-                    api_key = os.getenv('GEMINI_API_KEY', 'AIzaSyBKMTlb3t0Yg6j85ynT3TEsz_ZQhV1zlO4')
+                    api_key = os.getenv('GEMINI_API_KEY', 'API KEY')
                     
                     if not api_key or api_key == 'DUMMY_KEY':
                         print("⚠️ No valid API key found")
