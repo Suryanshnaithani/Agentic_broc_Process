@@ -33,7 +33,7 @@ Our tool extracts key project information, images (floorplans, amenities, master
 ## 🚀 Getting Started
 
 ### 1. Clone repo
-- git clone https://github.com/Suryanshnaithani/Brochure-analyzer.git
+- git clone https://github.com/Suryanshnaithani/Agentic_broc_Process.git
 
 
 ### 2. Install dependencies
